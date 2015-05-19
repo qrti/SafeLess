@@ -6,11 +6,9 @@ This is a stable working beta release, anyway install it at your own risk and be
 
 
 **Hovering**
-
-over fields, buttons and check-marks pops up a brief help.
+- over fields, buttons and check-marks pops up a brief help.
 
 **User**
-
 Enter a username here, so more than one person can use same sites with different logins. At least four letters or digits are required. The font color changes from blue to black if valid.
 
 **Master Password**
