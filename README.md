@@ -4,7 +4,7 @@
 does not store passwords, they are calculated on the fly. Individually for each site they are derived from a master password. SHA256 encryption ensures that 'back calculating' the master password is not possible. For comfortable usage site settings are stored optionally.
 This is a stable working beta release, anyway install it at your own risk and be sure to note down or save your generated access codes to a second place. I'm looking forward to your reports and suggestions ...
 
-####`Hovering`
+#####`Hovering`
 over fields, buttons and check-marks pops up a brief help.
 
 **User**
