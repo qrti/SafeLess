@@ -16,51 +16,34 @@ over fields, buttons and check-marks pops up a brief help.
 **User**  
 Enter a username here, so more than one person can use same sites with different logins. At least four letters or digits are required. The font color changes from blue to black if valid.
 
-----------
-
-**Master Password**
+**Master Password**  
 From this password all passwords for your sites are derived. At least four letters, digits or special characters are required. The font color changes from blue to black if valid.
 
-----------
-
-**Site**
-
+**Site**  
 Enter a sitename here, for example the sites URL or parts of it. At least four letters, digits or special characters are required. While typing already saved sites are suggested. Suggestions can be browsed with cursor up/down and taken over by pressing return. The font color changes from blue to black if a site is already stored.
 
 - Change the digit to the right to get a fresh password for a site
 - Save-button saves site
 - Delete-button deletes site
 - <-button navigates backwards through saved sites
-- >-button navigates forward through saved sites
+- >-button navigates forward through saved sites  
 
-----------
-
-**Username**
-
+**Username**  
 Enter the username for a site here, mostly an eMail address is used. This field is optional.
 
-----------
-
-**Password**
-
+**Password**  
 Calculated password for a site.
 
 - Below this field you can change the complexity and length of the password
 
-----------
-
-**CTRL-U/P**
-
+**CTRL-U/P**  
 If checked and a password is shown, CTRL-U/P fills in a sites username and password.
 
 - place the cursor on sites username/password field
 - press CTRL-U on username
 - press CTRL-P on password
 
-----------
-
-**Copyright**
-
+**Copyright**  
 SafeLess uses ISC license.
 Thanks to 'Zer' for CryptSharp that uses ISC license.
 
