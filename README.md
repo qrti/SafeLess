@@ -8,7 +8,7 @@ This is a stable working beta release, anyway install it at your own risk and be
 
 ----------
 
-###**Control**
+###**Controls**
 
 **Hovering**  
 over fields, buttons and check-marks pops up a brief help.
@@ -21,6 +21,7 @@ From this password all passwords for your sites are derived. At least four lette
 
 **Site**  
 Enter a sitename here, for example the sites URL or parts of it. At least four letters, digits or special characters are required. While typing already saved sites are suggested. Suggestions can be browsed with cursor up/down and taken over by pressing return. The font color changes from blue to black if a site is already stored.
+
 - Change the digit to the right to get a fresh password for a site
 - Save-button saves site
 - Delete-button deletes site
@@ -42,7 +43,10 @@ If checked and a password is shown, CTRL-U/P fills in a sites username and passw
 - press CTRL-U on username
 - press CTRL-P on password
 
-**Copyright**  
+----------
+
+###**Copyright**  
+
 SafeLess uses ISC license.
 Thanks to 'Zer' for CryptSharp that uses ISC license.
 
