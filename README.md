@@ -19,7 +19,6 @@ Enter a username here, so more than one person can use same sites with different
 ----------
 
 **Master Password**
-
 From this password all passwords for your sites are derived. At least four letters, digits or special characters are required. The font color changes from blue to black if valid.
 
 ----------
