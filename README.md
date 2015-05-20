@@ -20,8 +20,7 @@ Enter a username here, so more than one person can use same sites with different
 From this password all passwords for your sites are derived. At least four letters, digits or special characters are required. The font color changes from blue to black if valid.
 
 **Site**  
-Enter a sitename here, for example the sites URL or parts of it. At least four letters, digits or special characters are required. While typing already saved sites are suggested. Suggestions can be browsed with cursor up/down and taken over by pressing return. The font color changes from blue to black if a site is already stored.
-
+Enter a sitename here, for example the sites URL or parts of it. At least four letters, digits or special characters are required. While typing already saved sites are suggested. Suggestions can be browsed with cursor up/down and taken over by pressing return. The font color changes from blue to black if a site is already stored.  
 - Change the digit to the right to get a fresh password for a site
 - Save-button saves site
 - Delete-button deletes site
