@@ -7,7 +7,7 @@ This is a stable working beta release, anyway install it at your own risk and be
 
 ----------
 
-[Screenshot](https://github.com/qrti/SafeLess/blob/master/safeless.png)
+![Screenshot](https://github.com/qrti/SafeLess/blob/master/safeless.png)
 
 ----------
 
