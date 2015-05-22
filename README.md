@@ -4,7 +4,7 @@
 does not store passwords, they are calculated on the fly. Individually for each site they are derived from a master password. SHA256 encryption ensures that 'back calculating' the master password is not possible. For comfortable usage site settings are stored optionally.
 This is a stable working beta release, anyway install it at your own risk and be sure to note down or save your generated access codes to a second place. I'm looking forward to your reports and suggestions ...
 
-![Screenshot](https://github.com/qrti/SafeLess/blob/master/Screenshot.png)
+![Screenshot](https://github.com/qrti/SafeLess/blob/master/safeless.png)
 
 ----------
 
@@ -54,3 +54,6 @@ Copyright (c) 2014, Kurt Schuster, [qrt@qland.de](mailto:qrt@qland.de)
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
 THE SOFTWARE IS PROVIDED 'AS IS' AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+[http://qland.de/software/safeless/index.html](http://qland.de/software/safeless/index.html)  
+[qrt@qland.de](mailto:qrt@qland.de)
