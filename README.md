@@ -8,7 +8,7 @@ This is a stable working beta release, anyway install it at your own risk and be
 
 ----------
 
-###**Controls**
+### **Controls**
 
 **Hovering**  
 over fields, buttons and check-marks pops up a brief help.
@@ -45,7 +45,7 @@ If checked and a password is shown, CTRL-U/P fills in a sites username and passw
 
 ----------
 
-###**Copyright**  
+### **Copyright**  
 
 SafeLess uses ISC license.
 Thanks to 'Zer' for CryptSharp that uses ISC license.
